@@ -6,6 +6,8 @@
 * The MathUtil.java - a replication of the famous JDK's library java.util.Math
 * Unit Test script using JUnit framework
 * Build script using Ant build tool in association with JUnit validation
+* GitHub Actions to demonstrate the Continious Integration(CI) in techique
+* Regression Test
 * …
 
 ### Screenshots
