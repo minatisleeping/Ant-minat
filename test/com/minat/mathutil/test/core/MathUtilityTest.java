@@ -29,7 +29,7 @@ public class MathUtilityTest {
         Assert.assertEquals(6, MathUtility.getFactorial(3));
         Assert.assertEquals(24, MathUtility.getFactorial(4));
         Assert.assertEquals(120, MathUtility.getFactorial(5));
-        Assert.assertEquals(20, MathUtility.getFactorial(6)); // 6! = 720
+        Assert.assertEquals(720, MathUtility.getFactorial(6)); // 6! = 720
         
                 
     }
