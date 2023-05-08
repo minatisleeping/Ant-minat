@@ -7,5 +7,9 @@
 * Unit Test script using JUnit framework
 * Build script using Ant build tool in association with JUnit validation
 * …
+
+### Screenshots
+![DDT & TDD w JUnit](https://github.com/minatisleeping/Ant-minat/blob/main/images/DDT%20w%20JUnit.png)
+
 #### © 2023 minat.isleeping 🥱💤
 
