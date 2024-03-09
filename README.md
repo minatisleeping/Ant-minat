@@ -13,5 +13,8 @@
 ### Screenshots
 ![DDT & TDD w JUnit](https://github.com/minatisleeping/Ant-minat/blob/main/images/DDT%20w%20JUnit.png)
 
+## License & Copyright
+ &copy; 2023 Mai Minh Nhat Licensed under the [GPL-3.0 LICENSE](https://github.com/minatisleeping/Ant-minat/blob/main/LICENSE). 
+
 #### © 2023 minat.isleeping 🥱💤
 
